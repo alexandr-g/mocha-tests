@@ -1,8 +1,11 @@
 # mocha-tests
 
+<!-- TODO: how to clone && cd -->
+
 Project structure:
 
 ```
+<!-- TODO: describe project structure -->
 
 ```
 
