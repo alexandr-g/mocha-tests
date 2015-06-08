@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "./node_modules/.bin/mocha -R list",
     "start": "node server.js"
   },
   "author": "Alex",
@@ -15,6 +15,7 @@
   "dependencies": {
     "express": "^4.12.4",
     "jade": "^1.10.0",
+    "mocha": "^2.2.5",
     "nodemon": "^1.3.7"
   }
 }
